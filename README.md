@@ -6,4 +6,13 @@ For Running this I used python 3.9.5 and Tensorflow 2.7.0 on windows machine.
 
 ## If you found this research working helping please cite this:
 
-@INPROCEEDINGS{9674124,  author={Tunio, Muhammad Hanif and Jianping, Li and Butt, Muhammad Hassaan Farooq and Memon, Imran},  booktitle={2021 18th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)},   title={Identification and Classification of Rice Plant Disease Using Hybrid Transfer Learning},   year={2021},  volume={},  number={},  pages={525-529},  doi={10.1109/ICCWAMTIP53232.2021.9674124}}
+@INPROCEEDINGS{9674124,  
+author={Tunio, Muhammad Hanif and Jianping, Li and Butt, Muhammad Hassaan Farooq and Memon, Imran},  
+booktitle={2021 18th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)},   
+title={Identification and Classification of Rice Plant Disease Using Hybrid Transfer Learning},   
+year={2021},  
+volume={},  
+number={},  
+pages={525-529},  
+doi={10.1109/ICCWAMTIP53232.2021.9674124}}
+
