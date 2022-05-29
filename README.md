@@ -4,7 +4,7 @@ The Rice crop is considered one of the most widely grown crops in Asia and it is
 
 For Running this I used python 3.9.5 and Tensorflow 2.7.0 on windows machine.
 
-## If you found this research working helping please cite this:
+## If you found this research work helping please cite this:
 
 @INPROCEEDINGS{9674124,  
 author={Tunio, Muhammad Hanif and Jianping, Li and Butt, Muhammad Hassaan Farooq and Memon, Imran},  
